@@ -1,0 +1,26 @@
+glusterfs-book
+	https://github.com/yalisandsoso/glusterfs-book/tree/main
+	https://blog.csdn.net/liuaigui/article/details/6284551
+	https://www.modb.pro/db/411555
+	https://docs.gluster.org/en/latest/Quick-Start-Guide/Quickstart/#types-of-translators
+	https://blog.csdn.net/weixin_48404074/article/details/121951735?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-121951735-blog-108573000.235^v38^pc_relevant_anti_vip_base&spm=1001.2101.3001.4242.2&utm_relevant_index=4
+	https://www.cnblogs.com/zhijiyiyu/p/15339674.html
+
+linux(glusterfs)与windows文件共享设置（续）
+	https://blog.51cto.com/tener/1552946
+
+分布式存储GlusterFS实战一——GlusterFS快速入门及概述
+	https://chegva.com/1745.html
+
+glusterfs实用手册
+	https://blog.51cto.com/tener/1552946
+
+glusterfs安装配置
+	https://zhuanlan.zhihu.com/p/436940079
+	https://www.cnblogs.com/LuoboLiam/p/13788049.html
+	https://www.cnblogs.com/sxchengchen/p/7805667.html
+	https://www.cnblogs.com/saneri/p/12378121.html
+
+Linux简单共享目录三种方法：NFS挂载/GlusterFS存储/samba共享
+	https://andyx.net/share_directories_in_linux_nfs_glusterfs_samba/
+                https://blog.csdn.net/qaz1qaz1qaz2/article/details/52825393
