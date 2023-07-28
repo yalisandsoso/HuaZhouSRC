@@ -24,3 +24,10 @@ glusterfs安装配置
 Linux简单共享目录三种方法：NFS挂载/GlusterFS存储/samba共享
 	https://andyx.net/share_directories_in_linux_nfs_glusterfs_samba/
                 https://blog.csdn.net/qaz1qaz1qaz2/article/details/52825393
+
+https://cloud.tencent.com/developer/article/1424663
+https://bbs.huaweicloud.com/blogs/357050
+https://blog.csdn.net/zhang_yazhou/article/details/108588672
+
+
+https://www.cnblogs.com/zhijiyiyu/p/15339674.html
