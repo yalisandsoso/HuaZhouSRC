@@ -1,10 +1,12 @@
 
 
              ----------------------------------------------------------------------------------------------------------------------------------------
-                                                                              CentOS GFS SMB
+                                                                              CentOS GLFS SMB
                          Author: Vulcan                   Created: 2023/6/28
                 
                    Implement and test Google's Distributed system. Test storage sharing, access control, expansion, data recovery, etc.
+	
+                   由于GLFS不能够提供容灾和性能的有效均衡方案，此项目测试已经放弃。
 
 
 
