@@ -42,3 +42,6 @@ https://medium.com/@andre.holzner/learning-discontinuous-functions-in-pytorch-ea
 https://www.zhihu.com/question/268384579
 
 https://abelsu7.top/2018/11/21/math-analysis-3/#3-1-%E6%8B%9F%E5%90%88%E9%97%AE%E9%A2%98%E4%B8%8E%E9%80%BC%E8%BF%91%E9%97%AE%E9%A2%98
+
+https://www.youtube.com/watch?v=lkha188L4Gs
+https://www.youtube.com/watch?v=QN6N1178cp0
