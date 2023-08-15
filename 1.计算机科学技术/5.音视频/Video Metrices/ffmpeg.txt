@@ -1,0 +1,3 @@
+ ffmpeg -i .//test.mp4 -vf scale=1920:1080:flags=neighbor output.mp4
+
+ffmpeg -i test.mp4 -filter_complex "[0]scale=1920:1080:flags=neighbor[v]" -map "[v]" output.mp4
